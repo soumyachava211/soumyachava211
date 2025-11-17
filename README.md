@@ -55,7 +55,7 @@ I’m currently developing tools that automate mapping between EHR data and clin
 - Supervised learning (classification-focused)
 - Model evaluation and interpretation
 - Trend detection and rule-based alerts
-- Exploratory Data Analysis (EDA) and visualization
+- Data Analysis and visualization
 
 ### Tools & Workflow
 - Git & GitHub (version control, project organization)
