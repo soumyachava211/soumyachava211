@@ -45,7 +45,7 @@ EHR → CRF conversion • Clinical research workflows
 - Full preprocessing + visualization + evaluation  
 - Realistic clinical workflow framing  
 
-➡️ *[View Project](https://github.com/YOUR_USERNAME/tbi-prediction)*
+➡️ *[View Project](https://github.com/soumyachava211/tbi-risk-nlp)*
 
 ---
 
@@ -55,7 +55,7 @@ EHR → CRF conversion • Clinical research workflows
 - Automates VALUE/DATE/TIME assignment  
 - Saves validated JSON outputs  
 
-➡️ *[View Project](https://github.com/YOUR_USERNAME/ehr-to-cdash-mapping)*
+➡️ *[View Project](https://github.com/soumyachava211/EHR---CRF-Mapping)*
 
 ---
 
@@ -64,7 +64,7 @@ EHR → CRF conversion • Clinical research workflows
 - Uses SNOMED for allergens + FHIR Bundles  
 - Realistic clinical modeling  
 
-➡️ *[View Project](https://github.com/YOUR_USERNAME/fhir-allergy-documentation)*
+➡️ *[View Project](https://github.com/soumyachava211/Allergy-Documentation)*
 
 ---
 
@@ -73,7 +73,7 @@ EHR → CRF conversion • Clinical research workflows
 - Glucose trends, adherence tracking, alerts  
 - Generates JSON summaries + visualizations  
 
-➡️ *[View Project](https://github.com/YOUR_USERNAME/diabetes-self-management-app)*
+➡️ *[View Project](https://github.com/soumyachava211/Chronic-Disease-Management-Application)*
 
 ---
 
