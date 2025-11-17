@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍⚕️ About Me
-I am a Biomedical Informatics graduate student focused on building real-world digital health, clinical research, and data engineering tools. My work blends:
+I am a Biomedical Informatics professional focused on building real-world digital health, clinical research, and data engineering tools. My work blends:
 
 - Python + data science  
 - Clinical standards (FHIR, CDASH, LOINC, SNOMED)  
