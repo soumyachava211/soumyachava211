@@ -22,19 +22,46 @@ I’m currently developing tools that automate mapping between EHR data and clin
 
 ## 🧰 Technical Skills
 
-### **Programming**
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+### Programming & Analysis
+- Python
+- R
+- SAS
+- SQL
 
-### **Machine Learning**
-`Classification` · `Model Evaluation` · `Pipeline Design`  
-`Feature Engineering` · `Sklearn`
+### Python Ecosystem
+- Data: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: scikit-learn
+- Notebooks & Environments: Jupyter Notebook, VS Code
 
-### **Clinical Standards**
-`FHIR (HL7)` · `CDASH` · `LOINC` · `SNOMED CT` · `EHR Data Models`
+### R / SAS / Statistical Tools
+- R for data cleaning, exploratory analysis, and basic modeling
+- SAS for statistical analysis and working with structured healthcare datasets
 
-### **Health Informatics**
-Digital health applications • CDS logic • Clinical data mapping • Data wrangling  
-EHR → CRF conversion • Clinical research workflows
+### Databases & Data Handling
+- SQL for querying, joins, aggregation, and reporting
+- Working with CSV, Excel, JSON, and flat files
+- Basic ETL-style data pipelines for clinical data
+
+### Clinical & Health Informatics
+- HL7 FHIR (resource modeling, Bundles, AllergyIntolerance)
+- CDISC CDASH (CRF mapping, VALUE/DATE/TIME attribution)
+- Clinical terminologies: SNOMED CT, LOINC, ICD-10
+- EHR data standardization and mapping (EHR → CRF)
+- Digital health dashboards and patient monitoring logic
+
+### Machine Learning & Analytics
+- Data wrangling and preprocessing
+- Supervised learning (classification-focused)
+- Model evaluation and interpretation
+- Trend detection and rule-based alerts
+- Exploratory Data Analysis (EDA) and visualization
+
+### Tools & Workflow
+- Git & GitHub (version control, project organization)
+- Jupyter Notebooks for analysis and demos
+- Microsoft Excel for quick data review and summaries
+- Experience with dashboards, Tableau, Power BI
 
 ---
 
