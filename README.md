@@ -104,7 +104,12 @@ I’m currently developing tools that automate mapping between EHR data and clin
 
 ---
 
-## 📜 Certifications & Interests
+## 📜 Certifications
+- Biomedical Research Investigators Training (CITI)
+- Basic Life Support (BLS)
+- HIPAA &Privacy Training
+
+##   Interests
 - Digital Health  
 - Clinical Data Standards
 - Clinical Data Science
