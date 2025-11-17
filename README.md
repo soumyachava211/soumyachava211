@@ -79,7 +79,8 @@ EHR → CRF conversion • Clinical research workflows
 
 ## 📜 Certifications & Interests
 - Digital Health  
-- Clinical Data Standards  
+- Clinical Data Standards
+- Clinical Data Science
 - Healthcare ML  
 - Patient-facing app development  
 - Clinical Research Tech  
