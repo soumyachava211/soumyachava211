@@ -1,50 +1,95 @@
-# Hi, I'm Soumya 👋
+<h1 align="center">Hi, I'm Soumya 👋</h1>
 
-**Healthcare Data Analyst · MS Biomedical Informatics @ University of Utah**
-
-I work at the intersection of clinical data and analytics — using Python, SQL, and BI tools to clean, validate, and analyze EHR and clinical trial data. I care about data quality, interoperability (FHIR/HL7/CDASH/LOINC), and building audit-ready, reproducible workflows that support real clinical decisions.
-
----
-
-## 🔭 What I'm focused on
-
-- Automating **EHR → CRF** and improving data interoperability using **CDASH, LOINC, FHIR**
-- Building **predictive models** (logistic regression, ML, NLP) on real-world clinical data
-- Creating **dashboards and reports** that are audit-ready and actionable
+<p align="center">
+💻 Biomedical Informatics • 📊 Data Science • 🧬 Digital Health Engineering  
+</p>
 
 ---
 
-## 🧪 Featured Projects (repos coming below)
+## 👩‍⚕️ About Me
+I am a Biomedical Informatics graduate student focused on building real-world digital health, clinical research, and data engineering tools. My work blends:
 
-### 1. FHIR-Based Allergy Documentation System
-Standardized allergy records using a Python/SQL/FHIR-based module to reduce data entry errors and increase completeness.
+- Python + data science  
+- Clinical standards (FHIR, CDASH, LOINC, SNOMED)  
+- EHR data processing  
+- Machine learning for clinical prediction  
+- Digital health app design  
+- Healthcare workflow automation  
 
-### 2. TBI Risk Prediction Using NLP
-Logistic regression model (~82% accuracy) on 1,200+ radiology notes + structured ED data to support triage decisions.
-
-### 3. Chronic Disease Self-Management App (Diabetes)
-Python-based app for tracking glucose, medications, and lifestyle factors to support adherence and patient engagement.
-
-### 4. EHR → CRF Mapping Demo (Oncology)
-Python automation pipeline that maps EHR fields to CRFs, applies **CDASH/LOINC**, and validates mapping for audit readiness.
+I’m currently developing tools that automate mapping between EHR data and clinical research standards, build patient-tracking dashboards, and convert clinical datasets into HL7 FHIR resources.
 
 ---
 
-## 🛠️ Tools & Skills
+## 🧰 Technical Skills
 
-**Programming & Analytics**  
-Python · R · SQL · SAS · SPSS · Excel (advanced) · Power BI · Tableau · Data cleaning & wrangling · Visualization · Regression · ML · NLP · ETL
+### **Programming**
+`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-**Healthcare & Clinical Data**  
-EHR data management · EDC systems · CRF mapping · Data validation & QA · HL7 · FHIR · CDASH/CDISC · LOINC · SNOMED CT · HIPAA · GCP
+### **Machine Learning**
+`Classification` · `Model Evaluation` · `Pipeline Design`  
+`Feature Engineering` · `Sklearn`
 
-**Reporting & Automation**  
-Dashboarding · Report automation · Data reconciliation · KPI tracking · Audit-ready reporting · Workflow optimization
+### **Clinical Standards**
+`FHIR (HL7)` · `CDASH` · `LOINC` · `SNOMED CT` · `EHR Data Models`
+
+### **Health Informatics**
+Digital health applications • CDS logic • Clinical data mapping • Data wrangling  
+EHR → CRF conversion • Clinical research workflows
+
+---
+
+## 📂 Highlight Projects
+
+### 🔹 1. **Traumatic Brain Injury (TBI) Risk Prediction**
+- ML-based prediction using structured clinical features  
+- Full preprocessing + visualization + evaluation  
+- Realistic clinical workflow framing  
+
+➡️ *[View Project](https://github.com/YOUR_USERNAME/tbi-prediction)*
+
+---
+
+### 🔹 2. **EHR → CDASH Mapping Automation Tool**
+- Maps sponsor CRFs to CDASH-compliant variables  
+- JSON parsing, rule-based logic, heuristics  
+- Automates VALUE/DATE/TIME assignment  
+- Saves validated JSON outputs  
+
+➡️ *[View Project](https://github.com/YOUR_USERNAME/ehr-to-cdash-mapping)*
+
+---
+
+### 🔹 3. **FHIR Allergy Documentation System**
+- Converts allergy tables into full FHIR AllergyIntolerance resources  
+- Uses SNOMED for allergens + FHIR Bundles  
+- Realistic clinical modeling  
+
+➡️ *[View Project](https://github.com/YOUR_USERNAME/fhir-allergy-documentation)*
+
+---
+
+### 🔹 4. **Diabetes Self-Management Dashboard**
+- Patient + clinical dashboard design  
+- Glucose trends, adherence tracking, alerts  
+- Generates JSON summaries + visualizations  
+
+➡️ *[View Project](https://github.com/YOUR_USERNAME/diabetes-self-management-app)*
+
+---
+
+## 📜 Certifications & Interests
+- Digital Health  
+- Clinical Data Standards  
+- Healthcare ML  
+- Patient-facing app development  
+- Clinical Research Tech  
 
 ---
 
 ## 📫 Contact
+- **Email:** YOUR_EMAIL  
+- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN
 
-- 📧 Email: chavasoumya.ao@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/soumyachava  
-- 🐙 GitHub: https://github.com/soumyachava211
+---
+
+<p align="center">✨ Always building towards better healthcare through data + technology.</p>
