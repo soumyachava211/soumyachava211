@@ -104,6 +104,15 @@ I’m currently developing tools that automate mapping between EHR data and clin
 
 ---
 
+### 🔹 Clinical Decision Support (CDS) Rules Engine
+- Rule-based evaluation of vitals and labs  
+- Sepsis, hypertension, glucose, oxygen, and HR alert logic  
+- Generates FHIR `DetectedIssue` alerts + visualizations  
+
+➡️ *[View Project](https://github.com/soumyachava211/cds-rules-engine)*
+
+---
+
 ## 📜 Certifications
 - Biomedical Research Investigators Training (CITI)
 - Basic Life Support (BLS)
